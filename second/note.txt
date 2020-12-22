@@ -1,0 +1,2 @@
+Second folder is chosen for second commit.
+Username and email is updated for the --global in my machine. So it will be "pillaiharish"
