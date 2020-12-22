@@ -1,0 +1,4 @@
+This will be second file to commit. 
+Using 
+$ git add -A
+will add the files present in the current directory that are not present in the index.
